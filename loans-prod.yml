@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 loans:
-  message: "Welcome to Binoy loans related prod APIs "
+  message: "Welcome to Binoy loans related prod test GIT APIs "
   contactDetails:
     name: "Binoy Sudhir - Product Owner"
     email: "pelias@bjk.com"
