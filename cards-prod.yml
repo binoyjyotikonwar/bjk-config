@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 cards:
-  message: "Welcome to Binoy cards related prod APIs "
+  message: "Welcome to Binoy cards related prod latest APIs "
   contactDetails:
     name: "Binoy k - Product Owner"
     email: "sandra@bjk.com"
